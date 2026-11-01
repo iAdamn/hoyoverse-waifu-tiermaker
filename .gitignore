@@ -1,6 +1,6 @@
 .DS_Store
 Thumbs.db
-node_modules/
 *.log
+node_modules/
 .vscode/
 .idea/
